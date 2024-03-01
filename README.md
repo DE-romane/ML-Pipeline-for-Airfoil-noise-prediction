@@ -20,4 +20,4 @@ In this 4 part assignment you will:
   - Save the model for future production use
   - Load and verify the stored model
  
-![kaggle notebook](https://www.kaggle.com/romanytawfeek/ml-pipeline-for-airfoil-noise-prediction)
+[kaggle notebook](https://www.kaggle.com/romanytawfeek/ml-pipeline-for-airfoil-noise-prediction)
